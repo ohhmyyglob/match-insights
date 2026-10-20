@@ -1,0 +1,11 @@
+# private Python install: big, and specific to your Mac
+.venv/
+# real match data stays local (hackathon rules require synthetic data)
+data/raw/
+# Python's cache files
+__pycache__/
+.ipynb_checkpoints/
+# macOS clutter
+.DS_Store
+# secrets, for when you add Azure keys in week 2
+.env

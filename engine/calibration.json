@@ -1,0 +1,49 @@
+{
+  "source": "Aggregates from 20 StatsBomb Open Data matches (PL 2015/16)",
+  "per_team_per_match": {
+    "passes": {
+      "mean": 468.575,
+      "std": 89.386
+    },
+    "pass_completion": {
+      "mean": 0.75,
+      "std": 0.056
+    },
+    "shots": {
+      "mean": 13.15,
+      "std": 5.54
+    },
+    "goals": {
+      "mean": 1.225,
+      "std": 1.097
+    },
+    "pressures": {
+      "mean": 143.875,
+      "std": 32.84
+    },
+    "tackles": {
+      "mean": 44.875,
+      "std": 9.746
+    },
+    "fouls": {
+      "mean": 12.875,
+      "std": 3.48
+    }
+  },
+  "pass_length_pct": {
+    "p10": 7.7,
+    "p25": 11.7,
+    "p50": 17.8,
+    "p75": 28.1,
+    "p90": 44.0
+  },
+  "goals_per_15min": [
+    3,
+    6,
+    6,
+    10,
+    9,
+    11,
+    4
+  ]
+}
