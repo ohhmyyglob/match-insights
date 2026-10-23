@@ -5,3 +5,7 @@ matplotlib
 mplsoccer
 ipykernel      # lets VS Code notebooks run on your .venv
 pytest         # for tests/
+
+agent-framework-foundry   # Microsoft Agent Framework + Foundry connector
+azure-identity            # AzureCliCredential: uses your az login
+python-dotenv             # reads settings from a .env file
